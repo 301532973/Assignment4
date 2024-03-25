@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgb(65,65,66);
+    padding: 10px;
+  }
+  
+  header img {
+    width: 200px;
+  }
+  
+  .container {
+    max-width: 60%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(65,65,66);
+  }
+  h2{
+    text-align: center;
+    color:rgb(141, 150, 14);
+  }
+ 
+  h4{
+    color: rgb(141, 150, 14);
+    margin-bottom: 0;
+  }
+  #year1{
+    margin-left: 10%;
+  }
+  #email{
+    margin-left: 10%;
+  }
+  input,label{
+    vertical-align: bottom;
+  }
+  footer #submit{
+    text-align: center;
+    margin: 3% 10% 0 35%;
+    background-color:rgb(141, 150, 14);
+  }
+  footer #reset{
+    background-color:rgb(65,65,66);
+    color: #fff;
+
+  }
+  footer p{
+    text-align: center;
+    
+  }
+  footer span{
+    text-align: center;
+    margin-left: 15%;
+    
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input,
+  textarea,
+  button {
+    
+    padding: 8px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #ccc;
+   
+  }
+  
+ 
+ 
+ label {
+
+    font-weight: normal;
+  
+  }
+  #courseName, #sem, #year1,#instruc{
+    color:rgb(65,65,66);
+  }
